@@ -1,3 +1,0 @@
-This notebook describes my own implementation of Linear Regression Models using Least Squares and Least Mean Squares Method.
-
-It also includes few experiments on how to choose the best learning rate in Stochastic Gradient Descent Method and how to find the best parameters for your model.
